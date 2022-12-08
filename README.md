@@ -22,6 +22,7 @@ In preparation for this workshop, you will need the following:
 
 ----
 ## Workshop Tasks
+Tasks under development, check back soon!
 
 
 
