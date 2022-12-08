@@ -1,4 +1,4 @@
-![Tool Logo](Github_Part4.png)
+![Tool Logo](Github_Part5.png)
 
 # GitHub Tips for Programmers
 
